@@ -14,6 +14,7 @@
 ---
 
 ### 🚀 Projects  
+- 🛒 **Fresh Produce Digital Solutions** – Online marketplace for fruits and vegetables built using the MERN stack  
 - 🏨 **Hotel Booking App** – Full-stack MERN booking platform with room availability management  
 - 📝 **Dynamic Blog App** – Blog platform with add, edit, delete, and local storage simulation  
 - ✅ **To-Do App with Pagination** – React app displaying paginated tasks for better UI  
